@@ -1,0 +1,23 @@
+body {
+    background: #ffffff;
+}
+
+img.header-background {
+    width: 1108px;
+    height: 332px;
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    z-index: -1;
+    opacity: .12;
+}
+.site-navigation {
+    box-shadow: 1px 2px 9px 1px #F8F8F8;
+    text-align: center;
+    float: left;
+    width: 100%;
+}
+h4 {
+    display: block;
+    
+}
